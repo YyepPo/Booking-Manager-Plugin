@@ -4,7 +4,7 @@ A simple, lightweight booking manager plugin for WordPress. This plugin provides
 
 **Showcase Video**
 
-- Watch the demo: [https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID](https://youtu.be/rO0MPo4K1K8)
+- Watch the demo: https://youtu.be/rO0MPo4K1K8
 
 **Quick Overview**
 
